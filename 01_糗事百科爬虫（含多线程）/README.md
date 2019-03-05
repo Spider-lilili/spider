@@ -2,4 +2,4 @@
  - 主要的工作是爬取糗事百科上的一些段子的内容以及作者和图片的链接地址还有当前的访问量。
  - 将获取到的信息最后以json的格式存储在当前的目录下。
 ###Demo： 
-![程序运行的动态演示图](https://github.com/15691739302/python/blob/master/demo/demo.gif)
+![程序运行的动态演示图](https://github.com/15691739302/python/demo/demo.gif)
