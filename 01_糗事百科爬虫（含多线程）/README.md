@@ -2,4 +2,4 @@
  - 主要的工作是爬取糗事百科上的一些段子的内容以及作者和图片的链接地址还有当前的访问量。
  - 将获取到的信息最后以json的格式存储在当前的目录下。
 ###Demo： 
-<iframe height="400" width="600" src="./demo/demo.gif"></iframe>
+<iframe height="400" width="600" src="https://github.com/15691739302/python.git/01_糗事百科爬虫（含多线程）/demo/demo.gif"></iframe>
